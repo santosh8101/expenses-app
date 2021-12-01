@@ -1,0 +1,8 @@
+.expense-section{
+    display: flex;
+    justify-content: space-between;
+    background-color: lightgrey;
+    width: 34rem;
+    height: 5rem;
+    align-items: center;
+}

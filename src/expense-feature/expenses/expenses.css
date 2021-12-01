@@ -1,0 +1,9 @@
+.expense-container{
+    width: 35rem;
+}
+.expense-list-container{
+    list-style: none;
+}
+.expense-list-item{
+    margin-bottom: 1rem;
+}

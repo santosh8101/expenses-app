@@ -1,0 +1,13 @@
+.add-expense-container{
+    display: flex;
+    width: 50rem;
+    justify-content: space-between;
+    margin-top: 1rem;
+    padding-left: 1rem;
+}
+.primary-class{
+    background-color: blue;
+}
+.secondary-class{
+    background-color: red;
+}
